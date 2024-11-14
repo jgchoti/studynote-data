@@ -20,15 +20,9 @@ I want to emphasize that while I've put effort into compiling accurate informati
 
 Feel free to explore the different sections of this repository:
 
-<!-- Data Science Foundations: Covers the fundamentals of data science, including key concepts and methodologies.
-Programming for Data Science: Introduction to Python, R, and other relevant languages used in data analysis.
-Data Wrangling: Techniques for cleaning, transforming, and organizing data.
-Exploratory Data Analysis (EDA): Approaches to understanding data through visualizations and statistical methods.
-Statistical Analysis: Core concepts in statistics that are critical for data science, including hypothesis testing and probability.
-Machine Learning: Overview of supervised and unsupervised learning algorithms, including practical implementations.
-Data Visualization: Tools and techniques for visualizing data insights effectively (e.g., Matplotlib, Seaborn, Plotly).
-SQL for Data Science: Basics of SQL queries for extracting and manipulating data in relational databases.
-Data Science Learning Journal: A record of my experience and progress as I tackle data science challenges and projects through self-study. -->
+[Data Science Foundations](https://github.com/jgchoti/studynote-data/blob/main/basic-data-science/what-data-science.md): Covers the fundamentals of data science, including key concepts and methodologies.
+
+
 
 ## Contribution and Feedback
 
